@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  margin: 10%;
+
+}
+
+img {
+    height: 300px;
+    border-radius: 10px;
+
+}
+
+thead {
+  background-color: grey;
+  color: white;
+
+}
